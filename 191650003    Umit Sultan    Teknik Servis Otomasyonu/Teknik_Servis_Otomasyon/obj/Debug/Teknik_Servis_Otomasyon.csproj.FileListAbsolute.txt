@@ -1,0 +1,24 @@
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\bin\Debug\Teknik_Servis_Otomasyon.exe.config
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\bin\Debug\Teknik_Servis_Otomasyon.exe
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\bin\Debug\Teknik_Servis_Otomasyon.pdb
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.musteri.resources
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.personel.resources
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.stok.resources
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.csproj.GenerateResource.Cache
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.exe
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.pdb
+C:\Users\user\OneDrive\Masaüstü\Teknik_Servis_Otomasyon\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\bin\Debug\Teknik_Servis_Otomasyon.exe.config
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.exe
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.pdb
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\bin\Debug\Teknik_Servis_Otomasyon.exe
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\bin\Debug\Teknik_Servis_Otomasyon.pdb
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.csprojResolveAssemblyReference.cache
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.Form1.resources
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.musteri.resources
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.personel.resources
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.Properties.Resources.resources
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.stok.resources
+C:\Users\user\OneDrive\Masaüstü\191650003    Umit Sultan    Teknik Servis Otomasyonu\Teknik_Servis_Otomasyon\obj\Debug\Teknik_Servis_Otomasyon.csproj.GenerateResource.Cache
